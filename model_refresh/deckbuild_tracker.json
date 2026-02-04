@@ -1,0 +1,19 @@
+{
+  "most_recent_set": "TLA",
+  "game_data_updates": {
+    "TLA_Premier": "2026-01-10"
+  },
+  "last_check_timestamp": "2026-02-04T22:36:42.601024",
+  "last_training_logs": [
+    {
+      "experiment_name": "TLA_Premier_deckbuild",
+      "training_examples": 39469,
+      "validation_examples": 9868,
+      "validation_accuracy": 72.81110660721524,
+      "num_epochs": 114,
+      "training_date": "2026-02-04 22:36:42"
+    }
+  ],
+  "notes": "This file tracks game_data updates for deckbuild model training.",
+  "last_training_timestamp": "2026-02-04T22:36:42.601024"
+}
